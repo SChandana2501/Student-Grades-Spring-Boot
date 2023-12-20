@@ -3,7 +3,6 @@
 ### Student Grades Project Using Spring Boot
 
 In this Spring Boot project, I established a streamlined workflow for managing student grades.
-![StudentGradespipeline](https://github.com/SChandana2501/Student-Grades-Spring-Boot/assets/150395569/fd76229e-e93e-4558-84ab-12e78036f093)
 
 The process involves utilizing the Talend API tester to execute GET, POST, PUT, and DELETE operations, while MongoDB serves as the database for storing student information.
 The system allows users to input data such as student names and marks, triggering automatic calculations of total marks and subsequent assignment of grades.
@@ -12,3 +11,4 @@ The calculated grades, along with other relevant student details, are stored in 
 
 The project's versatility lies in its ability to dynamically calculate grades, seamlessly integrate with MongoDB for efficient data storage, and offer a user-friendly interface through Talend API tester for comprehensive CRUD operations.
 With a clear focus on simplicity and functionality, this Spring Boot application ensures efficient management of student grades, catering to the diverse needs of users interacting with the system.
+Live Demo Link: https://github.com/SChandana2501/Student-Grades-Spring-Boot/assets/150395569/4104d276-70f2-4c6a-a60a-3e633218da38
