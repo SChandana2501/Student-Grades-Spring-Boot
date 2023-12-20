@@ -8,7 +8,5 @@ The system allows users to input data such as student names and marks, triggerin
 The grading system is based on predefined criteria, categorizing students into grades A+, A-, B+, B-, C, D, or F, depending on their total marks.
 The calculated grades, along with other relevant student details, are stored in MongoDB for future reference and retrieval.
 
-
 The project's versatility lies in its ability to dynamically calculate grades, seamlessly integrate with MongoDB for efficient data storage, and offer a user-friendly interface through Talend API tester for comprehensive CRUD operations.
 With a clear focus on simplicity and functionality, this Spring Boot application ensures efficient management of student grades, catering to the diverse needs of users interacting with the system.
-![images](https://github.com/SChandana2501/Student-Grades-Spring-Boot/assets/150395569/a9b7956b-7471-4811-b994-09010ce3017c)
