@@ -1,5 +1,7 @@
-![Student Grades](https://github.com/SChandana2501/Student-Grades-Spring-Boot/assets/150395569/1a15508c-4b1f-4ec7-b3d1-f0812355429e)
+![images](https://github.com/SChandana2501/Student-Grades-Spring-Boot/assets/150395569/fdf399c1-e39b-430c-acab-454c3419345b)
+
 ### Student Grades Project Using Spring Boot
+
 In this Spring Boot project, I established a streamlined workflow for managing student grades.
 ![StudentGradespipeline](https://github.com/SChandana2501/Student-Grades-Spring-Boot/assets/150395569/fd76229e-e93e-4558-84ab-12e78036f093)
 
